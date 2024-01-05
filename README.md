@@ -48,3 +48,16 @@ The purpose of the provincial minimum wage is because it is an important policy 
 
 Provincial minimum wage 
 are obtained from national statistical agencies (BPS) or employers' reports. The average hourly wage figures released are obtained by interviewing workers or asking employers to report information on wages paid to workers per hour. Surveys can cover a range of economic sectors and worker education or skill levels.
+
+#### RECOMMENDATIONS
+
+- Strengthen economic empowerment programs that can increase economic empowerment in every province across Indonesia as well as in urban, rural or rural-urban areas, especially those below the poverty line. This could include skills training, education, and better access to decent work.
+- Despite improvements, ensure that vulnerable rural areas receive special attention. Targeted programs tailored to the needs of people in these areas can help reduce disparities.
+- Engage the private sector in poverty alleviation initiatives. Partnerships with companies can provide employment opportunities, training and financial support to local communities.
+- Investigate further the causes of the significant jump in per capita expenditure on 'expenditure' from 2010 to 2011. There may be specific factors such as fiscal policy or economic stimulus that can provide insights for future policy improvements.
+- Invest in infrastructure development and education. Good infrastructure can support economic growth, while quality education can improve labor productivity.
+- Strengthen policies that can provide special support to workers during an economic or health crisis such as a pandemic, including economic stimulus or assistance programs.
+- Consider implementing a minimum wage increase policy in provinces that have low wage values. This can help improve worker welfare and stimulate economic growth in the region.
+- Review the impact of a minimum wage increase on productivity and worker welfare, while an increase in minimum wage can increase worker income, companies also need to ensure operational sustainability and productivity.
+- While there is a strong positive correlation, it is important to remember that correlation does not necessarily indicate causation. Therefore, it is important to consider other factors that may affect the relationship between wages and the poverty line, such as the cost of living, inflation, and social policies.
+- The government should integrate data from various other sources, such as data on inflation rates, unemployment rates, and other economic and social factors to predict future poverty lines using predictive modeling by considering regional differences and involving social factors such as the level of access to education, public health, and existing social programs.
