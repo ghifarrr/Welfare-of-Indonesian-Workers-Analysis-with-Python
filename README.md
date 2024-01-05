@@ -49,6 +49,23 @@ The purpose of the provincial minimum wage is because it is an important policy 
 Provincial minimum wage 
 are obtained from national statistical agencies (BPS) or employers' reports. The average hourly wage figures released are obtained by interviewing workers or asking employers to report information on wages paid to workers per hour. Surveys can cover a range of economic sectors and worker education or skill levels.
 
+------------------------------------------------------------------------------------------------------------
+
+#### QUESTIONS
+
+- What is the trend of the per capita poverty line in Indonesia over the past few years?
+- Is there a significant difference between poverty lines in urban and rural areas?
+- Which provinces have the highest and lowest per capita poverty lines?
+- How has the pattern of per capita expenditure changed over the years?
+- Are there differences in expenditure patterns between urban and rural areas?
+- How has the average hourly wage of workers evolved over the years?
+- Are there significant differences in average wages between provinces?
+- What is the trend of UMP across Indonesian provinces in recent years?
+- Are there significant differences in UMP levels between provinces?
+- Is there a correlation between the per capita poverty line in urban, rural and rural-urban areas and the average hourly wage of workers?
+- Can we use forecasting models to predict future trends in worker welfare?
+
+
 #### RECOMMENDATIONS
 
 - Strengthen economic empowerment programs that can increase economic empowerment in every province across Indonesia as well as in urban, rural or rural-urban areas, especially those below the poverty line. This could include skills training, education, and better access to decent work.
