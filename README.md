@@ -1,5 +1,7 @@
 # Welfare-of-Indonesian-Workers-Analysis-with-Python
 
+The walfare of Indonesian workers datasets are all obtained from an Indonesian state institution called BPS (Central Bureau of Statistics) which presents the country's overall statistical data in various fields, such as worker welfare, tourism, population, etc. I made this analysis using Bahasa (Indonesian language). Here is the short explanation about the datasets file:
+
 gk.df.csv: Per capita poverty line with disaggregation by province, expenditure type, year, region of residence, and survey period,
 
 peng.df.csv: Average Per Capita Expenditure with disaggregation by Province, Type of Expenditure, Year, and Region of Residence,
